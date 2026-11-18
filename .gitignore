@@ -1,0 +1,21 @@
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual environment
+.venv/
+venv/
+
+# Environment secrets
+.env
+
+# YOLO model weights
+*.pt
+
+# IDE files
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
